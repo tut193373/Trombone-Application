@@ -49,8 +49,8 @@ OpenCVは以下からインストールした。
 # 使い方
 
 1. Android端末からアクセスして、apkファイルをダウンロードし、実行する。
-2. <p>起動画面上にある2つのボタンのうち<img src="https://user-images.githubusercontent.com/58971155/173270557-0488390c-b811-4749-8fc5-3d0b2fde547e.PNG" width="10px">はカメラの向きを変更、<img src="https://user-images.githubusercontent.com/58971155/173270652-dfdcd4f3-3a7d-47e2-8ebe-255af4b36c9f.PNG" width="30px">は深度推定用のボタンである。</p>
-3. <p><img src="https://user-images.githubusercontent.com/58971155/173270652-dfdcd4f3-3a7d-47e2-8ebe-255af4b36c9f.PNG" width="30px">をタップすると深度マップと数字が表示される。</p>
+2. <p>起動画面上にある2つのボタンのうち<img src="https://user-images.githubusercontent.com/58971155/173300519-d8478920-450b-4a5c-b307-267e7cc102d6.PNG" width="40px">はカメラの向きを変更、<img src="https://user-images.githubusercontent.com/58971155/173300536-80c3fe8d-a712-4217-8e06-cd7d1704134d.PNG" width="40px">は深度推定用のボタンである。</p>
+3. <p><img src="https://user-images.githubusercontent.com/58971155/173300536-80c3fe8d-a712-4217-8e06-cd7d1704134d.PNG" width="40px">をタップすると深度マップと数字が表示される。</p>
 4. 画像中の物体に対して距離が変化すると、画面上部の数字も変化する（未実装）。
  
 # 留意点
